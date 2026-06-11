@@ -8,7 +8,6 @@
 
 🔗 **[Descargar iframe-directo.zip](https://github.com/codewerl-hash/Iframe-directo/releases/download/v1.3/iframe-directo.zip)**
 
-> Reemplaza el link anterior por el enlace real de descarga cuando esté disponible.
 
 ### 2. Descomprime el archivo
 
